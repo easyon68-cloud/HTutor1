@@ -17,7 +17,7 @@ from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 import io
 
-OpenAI(api_key="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")
+OpenAI API Key secret
 
 st.title("Ncert and Cbse class 11th and 12th standard problem solving tutor")
 
